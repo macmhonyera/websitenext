@@ -17,7 +17,7 @@ export default function Home() {
             href="/find-talent"
             className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300"
           >
-            Find Talent
+            Got Talent
           </Link>
           <Link href="home" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">Jobs</Link>
           <Link href="home" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">Who we are?</Link>
