@@ -27,7 +27,7 @@ const Header = () => {
       </div>
       <div className="flex gap-4 items-center mr-24">
         <Link
-          href="#"
+          href="/register"
           className="border rounded-xl p-2 font-semibold text-xs text-[#f9faf7] bg-green-400"
         >
           Join Now
