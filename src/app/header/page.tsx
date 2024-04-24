@@ -23,6 +23,10 @@ const Header = () => {
           </Link>
           <Link href="home" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">Jobs</Link>
           <Link href="home" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">Who we are?</Link>
+          <Link href="home" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">About Us</Link>
+          <Link href="home" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">Contact Us</Link>
+
+
         </div>
       </div>
       <div className="flex gap-4 items-center mr-24">
