@@ -16,15 +16,15 @@ const Header = () => {
         <div className="flex justify-center text-[#f9faf7] font-semibold gap-4 md:gap-5">
           <Link href="home" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">Home</Link>
           <Link
-            href="/find-talent"
+            href="/find_talent"
             className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300"
           >
             Got Talent
           </Link>
           <Link href="home" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">Jobs</Link>
           <Link href="home" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">Who we are?</Link>
-          <Link href="home" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">About Us</Link>
-          <Link href="home" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">Contact Us</Link>
+          <Link href="aboutUs" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">About Us</Link>
+          <Link href="contactUs" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">Contact Us</Link>
 
 
         </div>
