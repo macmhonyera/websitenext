@@ -21,8 +21,7 @@ const Header = () => {
           >
             Got Talent
           </Link>
-          <Link href="home" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">Jobs</Link>
-          <Link href="home" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">Who we are?</Link>
+          <Link href="jobs" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">Jobs</Link>
           <Link href="aboutUs" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">About Us</Link>
           <Link href="contactUs" className="text-[#f9faf7] hover:bg-[#4ade80] rounded-md hover:text-black p-2 transition-colors duration-300">Contact Us</Link>
 
